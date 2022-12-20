@@ -13,7 +13,8 @@ import org.junit.runners.Parameterized;
 /**
  *
  * @author Admin
- *///câu lệnh này của JUnit báo hiệu rằng sẽ cần loop qua tập data để
+ */
+//câu lệnh này của JUnit báo hiệu rằng sẽ cần loop qua tập data để
 //lấy cặp data input/expected nhồi vào hàm test 
 @RunWith(value = Parameterized.class)
 public class MathUtilDDTTest {
